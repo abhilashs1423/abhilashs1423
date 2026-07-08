@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhilash G S
 
-<!--
-**abhilashs1423/abhilashs1423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Python Full Stack Developer | Frontend Developer
 
-Here are some ideas to get you started:
+I am a passionate fresher who enjoys building web applications using Python, Django, HTML, CSS, Bootstrap and JavaScript. I am continuously learning new technologies and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+- Bachelor of Computer Applications (BCA)
+- Python Full Stack Development Course
+
+---
+
+## 🛠 Skills
+
+- Python
+- Django
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- SQL
+- Git
+- GitHub
+
+---
+
+## 🚀 Projects
+
+### 📸 PhotoHub
+A Photography Booking Website built using Django.
+
+🔗 Repository:
+https://github.com/abhilashs1423/Photohub
+
+---
+
+## 🌱 Currently Learning
+
+- Django Advanced Concepts
+- REST APIs
+- React.js
+- Git & GitHub Best Practices
+
+---
+
+## 📫 Contact
+
+📧 Email: YOUR_EMAIL_HERE
+
+🐙 GitHub:
+https://github.com/abhilashs1423
+
+---
+
+⭐ Thank you for visiting my profile!
