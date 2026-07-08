@@ -29,13 +29,21 @@ I am a passionate fresher who enjoys building web applications using Python, Dja
 
 ## 🚀 Projects
 
-### 📸 PhotoHub
-A Photography Booking Website built using Django.
+### 📸 PhotoHub – Photography Booking Website
+
+A modern Photography Booking Website built using Django.
+
+**Features**
+- User Registration & Login
+- Photography Gallery
+- Photographer Profiles
+- Online Booking
+- Responsive Design
 
 🔗 Repository:
 https://github.com/abhilashs1423/Photohub
 
----
+![PhotoHub](https://raw.githubusercontent.com/abhilashs1423/Photohub/main/screenshots/Home.png)
 
 ## 🌱 Currently Learning
 
@@ -59,6 +67,6 @@ https://github.com/abhilashs1423
 
 ## 📊 GitHub Stats
 
-![Abhilash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhilashs1423&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhilashs1423&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashs1423&layout=compact&theme=tokyonight)
